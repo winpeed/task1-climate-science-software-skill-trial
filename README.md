@@ -14,7 +14,8 @@ In this project, a figma file was provided by Climate Science. A frame from the 
 6. Looping on the animation.
 7. Providing a link to the public repo and a link to the deployed page with vercel's default domain
 
-![Mainteny-Uni](https://user-images.githubusercontent.com/28057919/147680932-f15a7954-4da9-45bf-a933-31edc37cec17.JPG)
+![Task 1 - Climate Science Software Skill Trial](https://user-images.githubusercontent.com/28057919/156755324-8e79cebf-a2e0-4971-8f93-a68b81ccd6d3.png)
+
 
 [Live Project](https://task1-climate-science-trial.vercel.app/ "Live Project")
 [Repo](https://github.com/winpeed/task1-climate-science-trial "Repo")
