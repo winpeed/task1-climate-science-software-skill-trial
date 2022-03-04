@@ -105,6 +105,7 @@ span {
   margin: 0 auto;
   -webkit-animation: fade 8s forwards 0.5s ease-in-out infinite;
           animation: fade 8s forwards 0.5s ease-in-out infinite;
+  opacity: 0;
 }
 
 .facts-wrapper .fact:nth-child(2) {
