@@ -35,7 +35,7 @@ In this project, a figma file was provided by Climate Science. A frame from the 
 3. In the project directory, you can run:
 
 ```js
-"npm run dev";
+npm run dev
 ```
 
 to start the development server on http://localhost:3000.
@@ -44,7 +44,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. T
 5. Run
 
 ```js
-"npm run build";
+npm run build
 ```
 
 This will build and run your project locally 🚀
