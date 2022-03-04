@@ -54,7 +54,7 @@ span {
 
 .guide-wrapper a {
   border-radius: 40px;
-  padding: 1em 2.5em;
+  padding: 1em 1.5em;
   border: none;
   background: #6231ec;
   color: #ffffff;
@@ -90,7 +90,7 @@ span {
   -webkit-box-shadow: 0px 0px 12px 0px #818181;
           box-shadow: 0px 0px 12px 0px #818181;
   max-width: 500px;
-  padding: 1.5em 2.5em;
+  padding: 1.5em 1.5em;
   text-align: center;
   margin: 3em auto;
   overflow: hidden;
@@ -101,7 +101,7 @@ span {
   max-width: 350px;
   text-align: center;
   font-weight: 600;
-  font-size: 1.4rem;
+  font-size: 1.1rem;
   margin: 0 auto;
   -webkit-animation: fade 8s forwards 0.5s ease-in-out infinite;
           animation: fade 8s forwards 0.5s ease-in-out infinite;
@@ -129,7 +129,7 @@ span {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 0.7em 2.1em;
+  padding: 0.7em 1.1em;
   border-radius: 69px;
   border: 1px solid #ffffff;
   -webkit-box-shadow: 0px 0px 12px 0px #818181;
@@ -178,12 +178,21 @@ span {
         -ms-flex: 0 0 45%;
             flex: 0 0 45%;
   }
+  .guide-wrapper a {
+    padding: 1em 2.5em;
+  }
   .facts-wrapper {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 45%;
             flex: 0 0 45%;
     margin: 0em auto;
-    padding: 1.5em 2.2em;
+    padding: 1.5em 2.5em;
+  }
+  .facts-wrapper h4 {
+    font-size: 1.4rem;
+  }
+  .fact {
+    padding: 0.7em 2.1em;
   }
   .fact p {
     font-size: 1.3rem;
