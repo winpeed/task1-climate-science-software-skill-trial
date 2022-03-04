@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { ReactElement } from "react";
 import Facts from "../components/Facts";
 import Guide from "../components/Guide";
