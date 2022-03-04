@@ -1,34 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Task 1 Solution - Climate Science Software Skill Trial
 
-## Getting Started
+Task 1 of this skill trial involves building a UI component with CSS animations with NextJS.
 
-First, run the development server:
+### Project Description
 
-```bash
-npm run dev
-# or
-yarn dev
+In this project, a figma file was provided by Climate Science. A frame from the Figma file was to be designed. Specifications to me me include:
+
+1. Setting Up the NextJS project on [Vercel](https://vercel.com/ "Vercel").
+2. Deploying the project to the default NextJS domain provided by [Vercel](https://vercel.com/ "Vercel").
+3. Coding a CSS animation of the specified Frame 13.
+4. Adding i18n support to the project.
+5. Using TypeScript and SCSS.
+6. Looping on the animation.
+7. Providing a link to the public repo and a link to the deployed page with vercel's default domain
+
+![Mainteny-Uni](https://user-images.githubusercontent.com/28057919/147680932-f15a7954-4da9-45bf-a933-31edc37cec17.JPG)
+
+[Live Project](https://task1-climate-science-trial.vercel.app/ "Live Project")
+[Repo](https://github.com/winpeed/task1-climate-science-trial "Repo")
+
+### Installation
+
+1. Clone this repo
+   ```sh
+   git clone https://github.com/winpeed/task1-climate-science-trial.git
+   ```
+2. Install all NPM packages
+
+   ```sh
+   npm install
+   ```
+
+3. In the project directory, you can run:
+
+```js
+"npm run dev";
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+to start the development server on http://localhost:3000.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+5. Run
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+```js
+"npm run build";
+```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+This will build and run your project locally 🚀
 
-## Learn More
+### Usage
 
-To learn more about Next.js, take a look at the following resources:
+1. Enter the Live/Production URL [https://task1-climate-science-trial.vercel.app/](https://task1-climate-science-trial.vercel.app/) or development URL [http://localhost:3000/](http://localhost:3000/) into your browser.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Built with
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [Next.js](https://nextjs.org/)
+- [React.js](https://reactjs.org/)
 
-## Deploy on Vercel
+### Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Praise Obende**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Github Profile](https://github.com/winpeed "winpeed")
+- [Email](mailto:praiseobende@yahoo.com?subject=Hi% "Hi!")
+- [Website](https://winpeed.com "Welcome")
